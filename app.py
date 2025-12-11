@@ -3,6 +3,6 @@ b = 2
 
 print (a+b)
 
-print (a-b)
+print (125+562)
 
-print ("im a tark patel")
+print (a-b)
